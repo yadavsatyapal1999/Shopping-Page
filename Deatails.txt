@@ -1,0 +1,4 @@
+1. All component are being use in main content and this is exported to app.js
+2.Filter folder contain all filter related field which will remain aside
+3.Sort forlder contain sort by things
+4.Header is having Header
